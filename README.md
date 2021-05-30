@@ -2,7 +2,7 @@
 
 **The challenge is now LIVE!**
 
-**You can [join the challenge](https://ibm.co/iqc2021) any time before 9pm EDT, May 26, 2021.**
+**You can can find my solutions to the IBM Quantntum Challenge.**
 
 ## Introduction
 
@@ -20,6 +20,4 @@ Read more about the challenge in the [announcement blog](https://research.ibm.co
 | Ex4 | 2007: Transmon qubits                 | Using Qiskit Pulse, study the behavior of transmon qubits in IBM Quantum systems.                                                                |
 | Ex5 | 2014: Variational quantum eignesolver | Using VQE in Qiskit Nature, find the smallest ansatz with high chemical accuracy to simulate the ground state energy of lithium hydride molecule |
 
-## FAQ
 
-Coming soon
