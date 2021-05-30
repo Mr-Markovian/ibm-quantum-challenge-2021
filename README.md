@@ -1,7 +1,5 @@
 # IBM Quantum Challenge 2021
 
-**The challenge is now LIVE!**
-
 **You can can find my solutions to the IBM Quantntum Challenge.**
 
 ## Introduction
